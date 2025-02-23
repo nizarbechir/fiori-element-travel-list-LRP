@@ -19,26 +19,40 @@
 |**Main Entity**<br>Travel|
 |**Navigation Entity**<br>None|
 
-## travellist
+# TravelList
 
-An SAP Fiori application.
+**An SAP Fiori Travel List Application**  
+A Fiori Elements List Report floorplan based travel list application built for the ABAP Trial Cloud Environment.
 
-### Starting the generated app
+---
 
--   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  In order to launch the generated app, simply run the following from the generated app root folder:
+## Overview
 
-```
-    npm start
-```
+TravelList is an SAP Fiori application generated using the SAP Fiori tools - App Generator. It leverages the Fiori Elements List Report floorplan to provide a robust travel management solution. The app features:
 
-- It is also possible to run the application using mock data that reflects the OData Service URL supplied during application generation.  In order to run the application with Mock Data, run the following from the generated app root folder:
+- **List Report View**: Overview of travel entries.
+![image alt][screenshots/Screenshot 2025-02-23 122502.png](https://github.com/nizarbechir/fiori-element-travel-list-LRP/blob/main/screenshots/Screenshot%202025-02-23%20122502.png?raw=true)
+- **Customer Filtering**: Use of a help dialog to filter customers.
+- **Object Page**: Detailed view of a travel entry.
+- **Edit Mode**: Editing functionality for travel details.
 
-```
-    npm run start-mock
-```
+---
 
-#### Pre-requisites:
+## Prerequisites
 
-1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org)
+- **Node.js & npm**: Ensure you have Node.js (v12 or later) and npm installed.
+- **SAP Fiori Tools**: For further customization or regeneration of the app.
+- **ABAP Trial Cloud Environment**: Access to live OData services if you choose to use real data.
+
+---
+
+## Installation
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone <repository_url>
+   cd travellist
+
 
 
