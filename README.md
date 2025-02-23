@@ -56,6 +56,7 @@ TravelList is an SAP Fiori application generated using the SAP Fiori tools - App
    ```bash
    git clone <repository_url>
    cd travellist
+   npm start
 
 
 
