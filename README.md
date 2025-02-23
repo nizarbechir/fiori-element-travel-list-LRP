@@ -31,13 +31,13 @@ A Fiori Elements List Report floorplan based travel list application built for t
 TravelList is an SAP Fiori application generated using the SAP Fiori tools - App Generator. It leverages the Fiori Elements List Report floorplan to provide a robust travel management solution. The app features:
 
 - **List Report View**: Overview of travel entries.
-    ![image_alt][screenshots/Screenshot 2025-02-23 122502.png](./screenshots/1.png)
+    ![image_alt](./screenshots/1.png)
 - **Customer Filtering**: Use of a help dialog to filter customers.
-    ![image alt][screenshots/Screenshot 2025-02-23 122502.png](./screenshots/2.png)
+    ![image alt](./screenshots/2.png)
 - **Object Page**: Detailed view of a travel entry.
-    ![image alt][screenshots/Screenshot 2025-02-23 122502.png](./screenshots/3.png)
+    ![image alt](./screenshots/3.png)
 - **Edit Mode**: Editing functionality for travel details.
-    ![image alt][screenshots/Screenshot 2025-02-23 122502.png](./screenshots/4.png)
+    ![image alt](./screenshots/4.png)
 
 ---
 
